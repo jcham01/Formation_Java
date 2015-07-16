@@ -1,0 +1,8 @@
+td {
+	font-weight: bolder;
+	color : red;
+}
+
+h2#titre {
+	text-decoration : underline;
+}
